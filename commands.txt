@@ -5,3 +5,7 @@ git commit -m ""
 git checkout -be
 git checkout
 git restore
+git log --oneline
+git log --oneline --pretty
+git clone
+git pull
