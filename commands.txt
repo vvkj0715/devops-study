@@ -9,3 +9,6 @@ git log --oneline
 git log --oneline --pretty
 git clone
 git pull
+git remote -v
+git config --global user.name ""
+git config --global user.email ""
